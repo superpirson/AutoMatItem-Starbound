@@ -1,3 +1,6 @@
+// json lib provided by http://www.sourceforge.net/p/supereasyjson
+
+
 #include "json.h"
 #include <stdlib.h>
 #include <string>
